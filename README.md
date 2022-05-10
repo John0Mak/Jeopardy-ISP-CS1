@@ -1,2 +1,2 @@
-# Jeopardy-ISP-CS1
+# ImpossibleTrivia
 An ISP Project 2022
